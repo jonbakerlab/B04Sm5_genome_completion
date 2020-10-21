@@ -4,9 +4,9 @@ This repository contains information regarding the software versions and paramet
 
 Tools and versions:
 
-Guppy v4.8.11
-kneaddata v0.5.4
-Filtlong v0.2.0
+Guppy v4.8.11. 
+kneaddata v0.5.4  
+Filtlong v0.2.0  
 Flye v.2.8-b1674
 hybridSPAdes v.3.14.0
 Unicycler v.0.4.8
